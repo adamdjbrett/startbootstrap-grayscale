@@ -1,0 +1,10 @@
+---
+layout: base.njk
+---
+{% include "partials/navbar.njk" %}
+{% include "partials/header.njk" %}
+{% include "partials/about.njk" %}
+<div class="container">
+{{ content | safe }}
+</div>
+{% include "partials/section.njk" %}
