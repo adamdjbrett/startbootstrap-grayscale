@@ -1,0 +1,71 @@
+title: "GRAYSCALE"
+description: "A free, responsive, one page Bootstrap theme created by Start Bootstrap." 
+language: en
+locale: en_US
+image: /img/favicon.ico
+favicon: /img/favicon.ico
+url: http://localhost:8080
+formspree_id: "https://formspree.io/f/{form_id}"
+
+navbar: 
+ title: Start Bootstrap
+ list: 
+   - nav: About
+     url: "#about"
+   - nav: Projects
+     url: "#projects"
+   - nav: Services
+     url: "#services"
+   - nav: Contact
+     url: "#contact"
+
+subscribe: 
+  title: "Subscribe to receive updates!"
+  icon: "far fa-paper-plane"
+  image: "/img/bg-signup.jpg"
+  placeholder: "Enter Email Address.."
+  button: "Notify Me!"
+
+contact: 
+ address: 
+   title: "Address"
+   icon: "fas fa-map-marked-alt"
+   text: "4923 Market Street, Orlando FL"
+ email: 
+   title: "Email"
+   icon: "fas fa-envelope"
+   text: "hello@yourdomain.com"
+ phone: 
+   title: "Phone"
+   icon: "fas fa-mobile-alt"
+   text: "+1 (555) 902-8832"
+   url: "tel:+15559028832"
+
+social:
+ - title: Follow my Facebook
+   icon: fab fa-facebook
+   url: https://fb.com
+ - title: Follow my Twitter
+   icon: fab fa-twitter
+   url: https://twitter.com
+ - title: Follow my Github
+   icon: fab fa-github
+   url: https://github.com
+
+copyrights: Copyright © Your Website 2023
+
+developer: 
+ text: managed by
+ name: adamdjbrett
+ url: https://adamdjbrett.com
+
+metasocial:
+  facebook: https://www.facebook.com/
+  twitter: https://twitter.com/
+  tweet: "@user"
+
+
+author:
+  name: Adam Dj Brett
+  email: info@adamdjbrett.com
+  url: https://www.adamdjbrett.com

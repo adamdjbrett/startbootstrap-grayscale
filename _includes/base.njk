@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="{{ metadata.language }}">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+{% include "partials/seo.njk" %}
+<style>{% include "css/index.css" %}</style>
+<style>{% getBundle "css" %}</style>
+</head>
+<body id="page-top">
+<a href="#main" id="skip-link" class="visually-hidden">Skip to main content</a>
+<div id="main">
+{{content|safe}}
+</div>
+{% include "partials/signup.njk" %}
+{% include "partials/contact.njk" %}
+{% include "partials/footer.njk" %}
+</body>
+</html>
