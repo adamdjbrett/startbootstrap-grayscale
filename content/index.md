@@ -3,7 +3,7 @@ header:
   title: "GRAYSCALE"
   description: "A free, responsive, one page Bootstrap theme created by Start Bootstrap."
   video:  
-  image: /img/bg-masthead.jpg
+  image: /img/bg-masthead.webp
   button: "Get Started"
   url: "#about"
 
@@ -21,7 +21,7 @@ section:
   - section_name: "projects"
     title: "Projects"
     description: "Grayscale is open source and MIT licensed. This means you can use it for any project - even commercial projects! Download it, customize it, and publish your website!"
-    media: "/img/bg-masthead.jpg"
+    media: "/img/bg-masthead.webp"
     sub_section1:
       - title: "Misty"
         video: https://www.youtube.com/watch?v=JG7CjvB_eQc&pp=0gcJCfwJAYcqIYzv
@@ -30,21 +30,21 @@ section:
     sub_section2:
       - title: "Mountains"
         video: 
-        image: "/img/demo-image-02.jpg"
+        image: "/img/demo-image-02.webp"
         content: "Another example of a project with its respective description."
   - section_name: "services"
     title: "Services"
     description: "Grayscale is open source and MIT licensed. This means you can use it for any project - even commercial projects! Download it, customize it, and publish your website!"
-    media: "/img/bg-masthead.jpg"
+    media: "/img/bg-masthead.webp"
     sub_section1:
       - title: "Services Misty"
         video: 
-        image: "/img/demo-image-01.jpg"
+        image: "/img/demo-image-01.webp"
         content: "An example of where you can put an image of a project, or anything else, along with a description."
     sub_section2:
       - title: "Services Mountains"
         video: 
-        image: "/img/demo-image-02.jpg"
+        image: "/img/demo-image-02.webp"
         content: "Another example of a project with its respective description."
 layout: home.njk
 ---

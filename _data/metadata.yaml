@@ -22,7 +22,7 @@ navbar:
 subscribe: 
   title: "Subscribe to receive updates!"
   icon: "far fa-paper-plane"
-  image: "/img/bg-signup.jpg"
+  image: "/img/bg-signup.webp"
   placeholder: "Enter Email Address.."
   button: "Notify Me!"
 
